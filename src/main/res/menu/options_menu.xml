@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/share_Action"
+        android:title="share"
+        />
+    <item
+        android:title="Setting"
+        android:id="@+id/Setting_Action"
+        />
+    <item
+        android:title="Contact us"
+        android:id="@+id/ContactUs_Action"
+        />
+</menu>
